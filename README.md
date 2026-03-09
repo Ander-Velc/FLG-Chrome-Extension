@@ -1,4 +1,7 @@
-<img width="2546" height="1034" alt="image" src="https://github.com/user-attachments/assets/f8b60d6a-7fa0-49bf-ba9c-2dcec9f29aca" /># FLG-Chrome-Extension
+<img width="2334" height="1354" alt="image" src="https://github.com/user-attachments/assets/278d7cb6-7439-4dbd-9547-cb4591fc5c78" />
+
+
+# FLG-Chrome-Extension
 Fake Login Generator Chrome Extension allows users to quickly generate temporary login credentials such as email addresses, phone numbers, and secure passwords for testing, development, or privacy purposes.
 
 This tool is designed to help users protect their personal information when interacting with websites that require registration. By generating temporary credentials, users can avoid exposing their real email addresses, phone numbers, or personal data.
@@ -11,20 +14,7 @@ No tracking, no analytics, and no background data collection are performed by th
 
 # ⚙️ Usage / Uso
 
-Full Login Generator:
-<img width="840" height="1124" alt="image" src="https://github.com/user-attachments/assets/6f12ff95-e4c4-445a-80b0-30580ad516fe" />
-
-A lot of avaible working phone numbers:
-<img width="786" height="632" alt="image" src="https://github.com/user-attachments/assets/f4331770-a5ca-4ac2-bb3a-d6386c03880c" />
-
-Creating mails:
-<img width="904" height="1028" alt="image" src="https://github.com/user-attachments/assets/bf19b95d-7341-4d6c-83c7-26e8c3af27fc" />
-
-
-Checking mails:
-<img width="830" height="1116" alt="image" src="https://github.com/user-attachments/assets/0d4edefd-6062-4850-a9f7-e0ff26a821b4" />
-
-
+https://github.com/user-attachments/assets/514a87ba-9edd-463a-8e16-094a8f915e04
 
 # 🚀 Installation / Instalación
 
