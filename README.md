@@ -30,7 +30,9 @@ On Windows:
 
 Download the file.zip
 
-<img width="1558" height="940" alt="image" src="https://github.com/user-attachments/assets/3943f8f5-efc5-432d-acbc-cf5c3be564c3" />
+<img width="2560" height="1424" alt="image" src="https://github.com/user-attachments/assets/b3053d47-1084-4a07-af2a-1516d3becec8" />
+
+
 
 Extract the file and upload the extension into chrome following these steps:
 
@@ -39,22 +41,24 @@ Enter this address on chrome:
 chrome://extensions/
 ```
 
-
-<img width="984" height="82" alt="image" src="https://github.com/user-attachments/assets/1b86854a-6803-41ab-b841-e0820c9034e3" />
-
-
-
 ## Enable the "Developer Mode"
+
 
 
 <img width="2546" height="1034" alt="image" src="https://github.com/user-attachments/assets/12c1f9b4-b342-485c-8c86-b1ff98fe9908" />
 
+
+
 ## Click on "Load Extension"
+
 
 
 <img width="1312" height="1026" alt="image" src="https://github.com/user-attachments/assets/60d8425d-b500-41ea-89a2-f120e2698827" />
 
+
+
 ## Select the downloaded file (FLG)
+
 
 
 <img width="2064" height="1154" alt="image" src="https://github.com/user-attachments/assets/f8203f62-782b-4332-86f7-cf6d009473c9" />
@@ -62,6 +66,8 @@ chrome://extensions/
 
 
 <img width="1486" height="1134" alt="image" src="https://github.com/user-attachments/assets/6352be64-5001-4269-ba16-30d61c062c91" />
+
+
 
 ## And finally add the extension to your tool bar:
 
