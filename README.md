@@ -14,7 +14,9 @@ No tracking, no analytics, and no background data collection are performed by th
 
 # ⚙️ Usage / Uso
 
-https://github.com/user-attachments/assets/514a87ba-9edd-463a-8e16-094a8f915e04
+
+https://github.com/user-attachments/assets/d25bc364-3be1-431c-8048-823f25b4583b
+
 
 # 🚀 Installation / Instalación
 
@@ -36,20 +38,37 @@ Enter this address on chrome:
 ```
 chrome://extensions/
 ```
+
+
 <img width="984" height="82" alt="image" src="https://github.com/user-attachments/assets/1b86854a-6803-41ab-b841-e0820c9034e3" />
 
-Enable the "Developer Mode"
+
+
+## Enable the "Developer Mode"
+
+
 <img width="2546" height="1034" alt="image" src="https://github.com/user-attachments/assets/12c1f9b4-b342-485c-8c86-b1ff98fe9908" />
 
-Click on "Load Extension"
+## Click on "Load Extension"
+
+
 <img width="1312" height="1026" alt="image" src="https://github.com/user-attachments/assets/60d8425d-b500-41ea-89a2-f120e2698827" />
 
-Select the downloaded file (FLG)
+## Select the downloaded file (FLG)
+
+
 <img width="2064" height="1154" alt="image" src="https://github.com/user-attachments/assets/f8203f62-782b-4332-86f7-cf6d009473c9" />
+
+
+
 <img width="1486" height="1134" alt="image" src="https://github.com/user-attachments/assets/6352be64-5001-4269-ba16-30d61c062c91" />
 
-And finally add the extension to your tool bar:
+## And finally add the extension to your tool bar:
+
+
 <img width="750" height="728" alt="image" src="https://github.com/user-attachments/assets/9baa0fe7-6ae6-43a8-ac70-cd93cbae42f9" />
+
+
 
 <img width="852" height="1194" alt="image" src="https://github.com/user-attachments/assets/140322f9-5030-4357-9a36-80769b8fd6e7" />
 
