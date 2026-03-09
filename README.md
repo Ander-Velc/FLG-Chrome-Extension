@@ -28,11 +28,7 @@ git clone https://github.com/Ander-Velc/FLG-Chrome-Extension.git
 ```
 On Windows:
 
-Download the file.zip
-
-<img width="2560" height="1424" alt="image" src="https://github.com/user-attachments/assets/b3053d47-1084-4a07-af2a-1516d3becec8" />
-
-
+Download the file.zip: https://github.com/Ander-Velc/FLG-Chrome-Extension/archive/refs/heads/main.zip
 
 Extract the file and upload the extension into chrome following these steps:
 
