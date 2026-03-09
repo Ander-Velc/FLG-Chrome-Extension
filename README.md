@@ -72,8 +72,6 @@ chrome://extensions/
 
 
 
-<img width="852" height="1194" alt="image" src="https://github.com/user-attachments/assets/140322f9-5030-4357-9a36-80769b8fd6e7" />
-
 
 
 
