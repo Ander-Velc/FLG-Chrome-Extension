@@ -1,0 +1,248 @@
+body{
+font-family:"JetBrains Mono","Cascadia Code",monospace;
+width:380px;
+padding:12px;
+background:#0a0c12;
+color:#e6e6ff;
+font-size:13px;
+}
+
+/* título */
+
+h2{
+margin:0 0 10px 0;
+color:#8ab4ff;
+letter-spacing:1px;
+}
+
+/* botones superiores */
+
+.topButtons{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:8px;
+margin-bottom:10px;
+}
+
+/* grid */
+
+.grid{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:10px;
+}
+
+/* secciones */
+
+.section{
+
+background:#121520;
+
+border:1px solid #20263a;
+
+border-radius:10px;
+
+padding:10px;
+
+display:flex;
+
+flex-direction:column;
+
+gap:8px;
+
+overflow:hidden;
+
+}
+/* inputs */
+
+input{
+
+width:100%;
+padding:7px;
+
+background:#0f1320;
+
+border:1px solid #2b3350;
+border-radius:6px;
+
+color:#e4e8ff;
+
+font-size:12px;
+
+box-sizing:border-box;
+
+}
+
+input::placeholder{
+color:#6d7bd6;
+}
+
+/* botones */
+
+button{
+
+padding:7px;
+background:#1a1f33;
+border:1px solid #394273;
+border-radius:8px;
+color:#c9d4ff;
+cursor:pointer;
+
+transition:all .2s;
+
+}
+
+button:hover{
+
+background:#27305e;
+border-color:#6c7cff;
+
+box-shadow:0 0 8px rgba(108,124,255,.5);
+
+}
+
+/* botones principales */
+
+#phones,
+#fullLogin{
+
+background:linear-gradient(45deg,#6c7cff,#9c6cff);
+border:none;
+color:white;
+font-weight:bold;
+
+}
+
+/* consola */
+
+#output{
+
+margin-top:12px;
+
+background:#07090f;
+border:1px solid #20263a;
+
+border-radius:10px;
+
+padding:10px;
+
+max-height:180px;
+
+overflow:auto;
+
+display:flex;
+flex-direction:column;
+gap:6px;
+
+}
+
+/* filas resultado */
+
+.resultRow{
+
+display:flex;
+justify-content:space-between;
+padding:6px 8px;
+
+background:#0f1320;
+border-radius:6px;
+
+border:1px solid #20263a;
+
+}
+
+.resultRow .label{
+
+color:#ffd166;
+font-size:11px;
+
+}
+
+.resultRow .value{
+
+color:#7af7ff;
+
+word-break:break-all;
+
+}
+
+/* clickable */
+
+.clickable{
+
+cursor:pointer;
+
+transition:all .15s;
+
+}
+
+.clickable:hover{
+
+background:#1a1f33;
+
+box-shadow:0 0 6px rgba(138,180,255,.6);
+
+}
+
+/* sms */
+
+.sms{
+
+background:#0f1320;
+
+padding:6px;
+
+border-radius:6px;
+
+border-left:3px solid #8ab4ff;
+
+}
+
+/* mail */
+
+.mail{
+
+background:#0f1320;
+
+padding:6px;
+
+border-radius:6px;
+
+border-left:3px solid #c084ff;
+
+}
+
+/* toast */
+
+.toast{
+
+position:fixed;
+
+bottom:10px;
+
+left:50%;
+
+transform:translateX(-50%);
+
+background:#6c7cff;
+
+color:white;
+
+padding:6px 12px;
+
+border-radius:6px;
+
+font-size:12px;
+
+animation:fade 1.5s forwards;
+
+}
+
+@keyframes fade{
+
+0%{opacity:0;transform:translateX(-50%) translateY(10px)}
+20%{opacity:1}
+80%{opacity:1}
+100%{opacity:0}
+
+}
